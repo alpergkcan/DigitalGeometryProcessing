@@ -1,7 +1,7 @@
 # DigitalGeometryProcessing
 My Projects on Digital Geometry Processing including METU Ceng 789 Course and personal projects.
 
-  + HW1 
+  + 789-HW1 
     + Dijkstra Shortest Path
       + Array Implementation
       + Heap Implementation
