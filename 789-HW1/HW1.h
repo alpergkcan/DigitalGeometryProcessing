@@ -6,8 +6,8 @@
 
 #include "Painter.h"
 #include "Mesh.h"
-#include "myHeap.h"
-#include "myFibHeap.h"
+#include "Heap.h"
+#include "FibHeap.h"
 
 #define INF 2e8
 #define UNDF -1
