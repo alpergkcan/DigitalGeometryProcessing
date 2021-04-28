@@ -1,2 +1,0 @@
-﻿  HelloWorld.cpp
-C:\Users\pc\source\789\789-HW1\789-HW1\HelloWorld.cpp(1,10): fatal error C1083: Cannot open include file: 'Inventor/Win/SoWin.h': No such file or directory
