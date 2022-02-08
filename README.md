@@ -13,7 +13,7 @@ My Projects on Digital Geometry Processing including METU Ceng 789 Course and pe
   + 789-HW2
     + A* Geodesic Search
     + Geometry Subdivision Remeshing
-      + sqrt(3) Subdivision
+      + sqrt(3) - Kobbolt Subdivision
       + 4-1 Subdivision
       + Phong Tesellation
   + Term Project: ARAP Surface Morphing
