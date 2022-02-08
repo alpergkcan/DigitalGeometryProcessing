@@ -1,0 +1,17 @@
+
+   1- create point set
+
+   2- create convex hull
+
+   3- get triangles from hull
+
+4- triangulate inside the triangles recursively
+
+5- turn it into a delanuay triangulation
+
+6- return the mesh
+
+   7- create corresponding triangles in the submesh
+
+   8- update vertex coordinates by the quadratic patch
+   
